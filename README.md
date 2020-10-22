@@ -175,7 +175,7 @@ Study Quetions:
 </p>
 </details>
 
-<details><summary>👉  Week 4 (Sept 28) Intro to Systematic Testing & <b>Mini-Exam #1</b> </summary>
+<details><summary>👉  Week 4 (Sept 28) Reviews & <b>Mini-Exam #1</b> </summary>
 <p>
   
 Mini-Exam:
@@ -184,17 +184,32 @@ Mini-Exam:
 - Review Video https://stream.queensu.ca/Watch/Me9f8Y2W (important!!)
 - Exam open from Thursday noon to Friday evenining, 1.5 hours (same workload as a 40-minutes in-class quiz).
 - Exam will be conducted through onQ.
-
-(Belows are not part of our Mini-exam #1)
-Introduction to Systematic Testing: Validation and Verification. Levels of Testing. Unit, integration, system, acceptance testing.
-- L6 Introduction to Systematic Testing (TBA)
-- L7 Black Box Testing (TBA)
-
 </p>
 </details>
 
 
+<details><summary>👉  Week 5-7 Setting-up Project Environment & Systematic Testing </summary>
+<p>
+  
 
+Introduction to Systematic Testing: 
+Validation and Verification. Levels of Testing. Unit, integration, system, acceptance testing.
+
+- P2-1 [Systematic Testing](lectures/P2-1.pdf) 
+  - Video: https://stream.queensu.ca/Watch/Nd42PaBk
+
+- P2-2 [Black Box Testing I](lectures/P2-2.pdf) 
+  - Video: https://stream.queensu.ca/Watch/Bk65PiKt
+</p>
+</details>
+
+
+<details><summary>👉  Week 9 BackBox Testing II & Mini-Exam #2 </summary>
+<p>
+  
+
+</p>
+</details>
 
 ## Contributors ✨
 
