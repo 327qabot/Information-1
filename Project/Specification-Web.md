@@ -89,6 +89,8 @@ Requirements and Constraints:
 |  |  | For any errors, redirect back to / and show an error message |
 |  |  | The added new ticket information will be posted on the user profile page |
 |  |  |  |
+|  |  | (optional) The name of the tickets has to contain at least 6 characters |
+|  |  | (optional) The new tickets must not be expired |
 | R5 | /update | [POST] |
 |  |  | The name of the ticket has to be alphanumeric-only, and space allowed only if it is not the first or the last character. |
 |  |  | The name of the ticket is no longer than 60 characters |
