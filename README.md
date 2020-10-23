@@ -215,7 +215,7 @@ Validation and Verification. Levels of Testing. Unit, integration, system, accep
 
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
@@ -230,6 +230,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/reetamtaj"><img src="https://avatars3.githubusercontent.com/u/43523091?v=4" width="100px;" alt=""/><br /><sub><b>Reetam Taj</b></sub></a><br /><a href="https://github.com/CISC-CMPE-327/Information/commits?author=reetamtaj" title="Code">💻</a> <a href="https://github.com/CISC-CMPE-327/Information/commits?author=reetamtaj" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/charasyn"><img src="https://avatars1.githubusercontent.com/u/6129909?v=4" width="100px;" alt=""/><br /><sub><b>Cooper Harasyn</b></sub></a><br /><a href="https://github.com/CISC-CMPE-327/Information/commits?author=charasyn" title="Code">💻</a> <a href="https://github.com/CISC-CMPE-327/Information/commits?author=charasyn" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/THardy98"><img src="https://avatars3.githubusercontent.com/u/15315413?v=4" width="100px;" alt=""/><br /><sub><b>Thomas Hardy</b></sub></a><br /><a href="https://github.com/CISC-CMPE-327/Information/commits?author=THardy98" title="Code">💻</a> <a href="https://github.com/CISC-CMPE-327/Information/commits?author=THardy98" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/aubreymcleod"><img src="https://avatars2.githubusercontent.com/u/62336777?v=4" width="100px;" alt=""/><br /><sub><b>aubreymcleod</b></sub></a><br /><a href="https://github.com/CISC-CMPE-327/Information/commits?author=aubreymcleod" title="Code">💻</a> <a href="https://github.com/CISC-CMPE-327/Information/commits?author=aubreymcleod" title="Documentation">📖</a></td>
   </tr>
 </table>
 
