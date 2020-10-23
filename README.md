@@ -62,15 +62,15 @@ There is an `issues` tab right up there :point_up:. Cannot find it? Click <a hre
   [We will only count top-3 mini-exams at the end of this course, except academic integrity issues; that's why you see there is a grade dropped on Onq.]
 </p>
 
-| Assignments | Subject                         | Due | Mini-Exams                         |   Due   |
-|-------------|---------------------------------|-----|------------------------------------|---------|
-|[A0](Project/A0.pdf)| Choose teams             |Sep-28| Mini-Exam #0                      |W04/Oct-01|
-|[A1](Project/A1.md)          | Front end: requirements tests   |Oct-17| Mini-Exam #1                      |W08      |
-| A2          | Front end: rapid prototype      |Oct-26| Mini-Exam #2                      |W11      |
-| A3          | Front end: requirements testing |Nov-09| Mini-Exam #3                      |W13      |
-| A4          | Back end: rapid prototype       |Nov-23|                                   |         |
-| A5          | Back end: unit testing          |Nov-30|                                   |         |
-| A6          | Integration and delivery        |Dec-10|                                   |         |
+| Assignments                                               | Subject                       | Due    | Mini-Exams   | Due        |
+|-----------------------------------------------------------|-------------------------------|--------|--------------|------------|
+| [A0](Project/A0.pdf)                                      | Choose teams                  | Sep-28 | Mini-Exam #0 | W04/Oct-01 |
+| [A1](Project/A1.md)                                       | Front end: requirements tests | Oct-17 | Mini-Exam #1 | W09/Nov-05 |
+| [A2-Web](Project/A2_web.md) / [A2-CLI](Project/A2_cli.md) | Rapid prototype               | Nov-07 | Mini-Exam #2 | W11/Nov-19 |
+| A3                                                        | Testing                       | Nov-14 | Mini-Exam #3 | W13/Dec-03 |
+| A4                                                        | Rapid prototype               | Nov-28 |              |            |
+| A5                                                        | Testing                       | Dec-08 |              |            |
+| A6                                                        | Final delivery                | Dec-14 |              |            |
 
 <h2 align="center"> Course Materials. :books: </h2> 
 
