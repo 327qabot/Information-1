@@ -205,6 +205,13 @@ Validation and Verification. Levels of Testing. Unit, integration, system, accep
 
 
 <details><summary>👉  Week 9 BackBox Testing II & Mini-Exam #2 </summary>
+
+Black Box Testing - Output Coverage, Reviews, and Mini-Exam #2 on Systematic Testing - Black Box Testing
+ 
+- P2-3 [Black Box Testing II](lectures/P2-3.pdf) 
+  - Video: https://stream.queensu.ca/Watch/Jx25Nnc6
+  
+  
 <p>
   
 
