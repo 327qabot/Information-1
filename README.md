@@ -213,7 +213,7 @@ Black Box Testing - Output Coverage, Reviews, and Mini-Exam #2 on Systematic Tes
   - Video: https://stream.queensu.ca/Watch/Jx25Nnc6
   
 - **REVIEW** [Mini-Exam 2](lectures/E2-Review.pdf) 
-  - Video: Will be in later today. But the slides already cover all (pay attention to RED highlights).
+  - Video: https://stream.queensu.ca/Watch/t3K4WyTe (pay attention to RED highlights).
   
 
 <p>
