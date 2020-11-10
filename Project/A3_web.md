@@ -5,7 +5,7 @@
 </h1>
 
 
-In this assignment, you will test the prototype (with features R1, R2, R3, R7, R8) you built-in Assignment 2 using the test cases you created in Assignment 1. 
+In this assignment, you will test the prototype (with features R1, R2, R3, R7, R8) you built in Assignment 2 using the test cases you created in Assignment 1. 
 You should proceed as follows:
 
 ### QA Lead Setups
