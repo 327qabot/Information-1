@@ -66,8 +66,8 @@ There is an `issues` tab right up there :point_up:. Cannot find it? Click <a hre
 |-----------------------------------------------------------|-------------------------------|--------|--------------|------------|
 | [A0](Project/A0.pdf)                                      | Choose teams                  | Sep-28 | Mini-Exam #0 | W04/Oct-01 |
 | [A1](Project/A1.md)                                       | Front end: requirements tests | Oct-17 | Mini-Exam #1 | W09/Nov-05 |
-| [A2-Web](Project/A2_web.md) / [A2-CLI](Project/A2_cli.md) | Rapid prototype               | Nov-08 | Mini-Exam #2 | W11/Nov-19 |
-| [A3-Web](Project/A3_web.md) / [A3-CLI](Project/A3_cli.md) | Testing                       | Nov-17 | Mini-Exam #3 | W13/Dec-03 |
+| [A2-Web](Project/A2_web.md) / [A2-CLI](Project/A2_cli.md) | Rapid prototype               | Nov-08 | Mini-Exam #2 | W11/Nov-23 |
+| [A3-Web](Project/A3_web.md) / [A3-CLI](Project/A3_cli.md) | Testing                       | Nov-19 | Mini-Exam #3 | W13/Dec-03 |
 | A4                                                        | Rapid prototype               | Nov-28 |              |            |
 | A5                                                        | Testing                       | Dec-08 |              |            |
 | A6                                                        | Final delivery                | Dec-14 |              |            |
