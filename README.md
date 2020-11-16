@@ -206,7 +206,8 @@ Validation and Verification. Levels of Testing. Unit, integration, system, accep
 
 <details><summary>👉  Week 9 BackBox Testing II & Mini-Exam #2 </summary>
 
-
+<p>
+  
 Black Box Testing - Output Coverage, Reviews, and Mini-Exam #2 on Systematic Testing - Black Box Testing
  
 - P2-3 [Black Box Testing II](lectures/P2-3.pdf) 
@@ -216,8 +217,34 @@ Black Box Testing - Output Coverage, Reviews, and Mini-Exam #2 on Systematic Tes
   - Video: https://stream.queensu.ca/Watch/t3K4WyTe (pay attention to RED highlights).
   
 
+</p>
+</details>
+
+<details><summary>👉 Week 10 White Box Testing </summary>
+
 <p>
   
+White Box Testing 
+ 
+- P2-4 [White Box Testing I](lectures/P2-4.pdf) 
+  - Video: https://stream.queensu.ca/Watch/a3S6KiHr
+  
+- P2-5 [White Box Testing II](lectures/P2-5.pdf) 
+  - Video: https://stream.queensu.ca/Watch/z2LZd9c4
+  
+</p>
+
+</details>
+
+
+<details><summary>👉  Week 11 A3 & Exam Reviews </summary>
+
+<p>
+  
+  
+- **REVIEW** TBA
+  - Video: TBA
+
 
 </p>
 </details>
