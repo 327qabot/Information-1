@@ -242,8 +242,8 @@ White Box Testing
 <p>
   
   
-- **REVIEW** TBA
-  - Video: TBA
+- [REVIEW](lectures/E3-Review.pdf)
+  - Video: https://stream.queensu.ca/Watch/q4K6NjEa
 
 
 </p>
