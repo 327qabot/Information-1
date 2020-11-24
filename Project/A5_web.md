@@ -26,14 +26,15 @@ All the PRs require ***approval*** and ***comments*** before merging.
 Again, each team member should be working on their branch and later merge to master after passing all the checks.
 
 1. So the test cases we created at A1 so far only test the front-end.
-Select one backend method unit and create a backend unit test case using a black box systematic approach we covered so far. 
+Select one backend method unit and create a backend unit test case using a white box systematic approach we covered so far. 
 Document the analysis (e.g. input partitions and test cases for each partition) and put it into a markdown file. 
+
+1. Integration Testing. Design two scenarios (user walk-through of the systems, from login to conduct transactions to logout). One for creating postings. One for purchasing. Implement two integration test cases.
 
 1. For the failing test cases, fix either the test case or the source code. 
 Both of the test cases and your source code have to strictly follow the requirement regarding the printed message and behavior. 
 
 1. Any fixes to the source code as well as the test cases have to be documented and compiled into a failure report (see requirement below). 
-Usually, we will do integration testing as well but we skip this for now.
 
 1. Recommended practice for the beginner: don't try to create all the test cases and then ran it all. 
 Instead, create one and make sure it works, then proceed to the next. 
