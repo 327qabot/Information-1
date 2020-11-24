@@ -10,6 +10,8 @@ You should proceed as follows:
 
 ### QA Lead Setups
 
+(Your team can choose a different lead this time if anyone else is interested.)
+
 1. If you haven't done so, please add `327qabot` to your repo as a contributor. 
 This cute little bot will help us gather information and statistics of all the repos, monitor activities/build-status, and interact with your team to facilitate PRs.
 
@@ -39,7 +41,6 @@ All the PRs require ***approval*** and ***comments*** before merging.
 ### Creating and Running Test Cases
 
 1. Now divide the test cases you created at A1, and assign each team member the test cases to be created and ran locally. 
-There seems to be a lot of test cases, but it just involves a lot of copy-and-paste if you get one working from the beginning. 
 Again, each team member should be working on their branch and later merge to master after passing all the checks.
 
 1. For the failing test cases, fix either the test case or the source code. 
