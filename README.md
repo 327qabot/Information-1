@@ -68,9 +68,9 @@ There is an `issues` tab right up there :point_up:. Cannot find it? Click <a hre
 | [A1](Project/A1.md)                                       | Front end: requirements tests | Oct-17 | Mini-Exam #1 | W09/Nov-05 |
 | [A2-Web](Project/A2_web.md) / [A2-CLI](Project/A2_cli.md) | Rapid prototype               | Nov-08 | Mini-Exam #2 | W11/Nov-24 |
 | [A3-Web](Project/A3_web.md) / [A3-CLI](Project/A3_cli.md) | Testing                       | Nov-20 | Mini-Exam #3 | W13/Dec-03 |
-| A4                                                        | Rapid prototype               | Nov-28 |              |            |
-| A5                                                        | Testing                       | Dec-08 |              |            |
-| A6                                                        | Final delivery                | Dec-14 |              |            |
+| [A4-Web](Project/A4_web.md) / [A4-CLI](Project/A4_cli.md) | Rapid prototype               | Dec-01 |              |            |
+| [A5-Web](Project/A5_web.md) / [A5-CLI](Project/A5_cli.md) | Testing                       | Dec-08 |              |            |
+| A6-Web (Docker Compose)     / A6-CLI (Integration)        | Final delivery                | Dec-14 |              |            |
 
 <h2 align="center"> Course Materials. :books: </h2> 
 
