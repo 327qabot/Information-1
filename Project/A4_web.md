@@ -16,13 +16,6 @@ Deliveries:
 showing the classes and methods as a diagram or table, with a brief (one sentence) description of the intention of each.
 - The second version of the source code to implement your design (including all features of R4, R5, R6).
 - **Detail code review** for each pull request.
-- Detailed Test Plan (like A2)
-  - How test cases of different levels (frontend, backend units, integration) are organized.
-  - The order ot the test cases (which level first which level second).
-  - Techniques and tools used for testing.
-  - Environments (all the local environment and the cloud environment) for the testing.
-  - Responsibility (who is responsible for which test case, and in case of failure, who should you contact)
-  - Budget Management (you have limited CI action minutes, how to monitor, keep track and minimize unncessary cost)
 
 
 Submission: create a tag of on your GitHub repository (following our assignment submission insturction using git) and submit the following infomation to onQ.
@@ -54,8 +47,6 @@ Marking:
 |  | Completeness |   |
 |  | • evidently addresses all required functionality |  |
 |  | • has considered all kinds of user inputs |  |
-|  | Test Plan |   |
-|  | • evidently addresses all required entries |  |
 | Source Code |  | 4  |
 |  | Structure and format |   |
 |  | • code is structured and formatted such that architecture is clearly visible in code |  |
