@@ -15,27 +15,9 @@ You should proceed as follows:
 1. If you haven't done so, please add `327qabot` to your repo as a contributor. 
 This cute little bot will help us gather information and statistics of all the repos, monitor activities/build-status, and interact with your team to facilitate PRs.
 
-1. Set up GitHub Action if you haven't done so. Please use the YAML file we provided in our python template. You were asked to set up at the beginning of the project. 
-The original template comes with some test cases that do not meet the specifications, so the status of your current repo may be build-failing after you added/changed the code in A2. 
-If so, comment out the existing test cases to make it build passing locally (i.e. running `pytest` locally) then make a pull request to make the master branch build-passing. 
+1. Make sure you have enough Action minutes left. If you ran out of minutes, you can transfer the ownership of the repo to another team member then you will have more minutes.
 
-1. [***Important***] One elected team member, preferably the most experienced one as QA lead, starts by creating one test case based on A1, make sure it builds successfully, create PR, pass all checks, get approved by all, and merge to master. 
-Then make sure all the team members can build successfully at their own workstation/laptop. 
-
-1. [***Important***] In your repo's README.md file (the cover page), QA Lead should add the line below if you don't have it yet:
-    1. Replace `repo_owner_id` with the GitHub ID of the repo's owner. 
-    1. Replace `repo_name` with the repo's name. 
-    1. `Python%20application` is the YAML file name where `%20` is space. 
-    1. In the YAML file there is a `name` attribute, it controls the shown name on the badge. You can rename it if you want (e.g. `SeekGeek-Build`)
-    1. This link will show you a build status badge on the repo home page like this: [![](https://github.com/CISC-CMPE-327/CI-Python/workflows/Python%20application/badge.svg)](https://github.com/CISC-CMPE-327/CI-Python/actions)
-
-```
-[![](https://github.com/repo_owner_id/repo_name/workflows/Python%20application/badge.svg)]()
-```
-
-1. [***Important***] The QA Lead following this [guide](https://docs.github.com/en/free-pro-team@latest/github/building-a-strong-community/creating-a-pull-request-template-for-your-repository) to create a pull request template agreed upon by the team members. 
-[Example](https://embeddedartistry.com/blog/2017/08/04/a-github-pull-request-template-for-your-projects/) of a PR template.
-Starting from this point of the assignments, all the PRs have to follow the agreed template. 
+1. All the PRs have to follow the agreed template. 
 All the PRs require ***approval*** and ***comments*** before merging. 
 
 ### Creating and Running Test Cases
