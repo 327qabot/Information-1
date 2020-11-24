@@ -5,7 +5,7 @@
 </h1>
 
 
-In this assignment, you will test the prototype back-end program you built in Assignment 4 using the test cases you created in Assignment 1. 
+In this assignment, you will test the prototype back-end program you built in Assignment 4 using unit testing. 
 You should proceed as follows:
 
 ### QA Lead Setups
@@ -22,8 +22,15 @@ All the PRs require ***approval*** and ***comments*** before merging.
 
 ### Creating and Running Test Cases
 
-1. Now divide the test cases you created at A1, and assign each team member the test cases to be created and ran locally. 
-Again, each team member should be working on their branch and later merge to master after passing all the checks.
+
+1. You are to create two separate sets of white box unit tests, one for the method or section of code that handles all ticket creation transactions, and one for the method or section of code that handles all ticket sale transactions.
+
+
+1. For each of these two methods or sections of code,
+   1. choose any systematic white box test method but you must choose a different method for each of the two kinds of transaction
+   1. analyze the code according to the system of the test method you choose and create a table of cases to be tested
+   1. create a set of tests (transaction inputs) to cover each of the test cases you have identified in the table
+   1. run the test cases
 
 1. For the failing test cases, fix either the test case or the source code. 
 Both of the test cases and your source code have to strictly follow the requirement regarding the printed message and behavior. 
