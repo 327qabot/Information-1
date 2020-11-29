@@ -267,7 +267,7 @@ In this part, we will look into two of the most common cyber attacks against app
 
 - [SQL Injection](lectures/P3-sql.pdf) (same slides as above) 
   - Video - Attack: https://stream.queensu.ca/Watch/i5MAo2t3
-  - Video - Prevent: https://stream.queensu.ca/Watch/i5MAo2t3
+  - Video - Prevent: https://stream.queensu.ca/Watch/j3SAf74Y
   
 - [XSS Attack](lectures/P3-xss.pdf)
   - Video: https://stream.queensu.ca/Watch/t5KWq84C
