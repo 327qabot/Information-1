@@ -249,6 +249,37 @@ White Box Testing
 </p>
 </details>
 
+
+<details><summary>👉  Week 12-13 Software Security </summary>
+
+  
+
+<p>
+  
+  
+In this part, we will look into two of the most common cyber attacks against applications: SQL Injection and XSS. The most recent cases:
+ 
+- [Nov-23, TikTok's XSS vulnerability enables hacker to take over your account by just one-click](https://www.zdnet.com/article/tiktok-patches-reflected-xss-bug-one-click-account-takeover-exploit/)
+- [Nov-27, VMWare's SQL injection bug allows one to leave arbitrary JavaScript running in node.js](https://portswigger.net/daily-swig/vmware-patches-security-flaws-leading-to-rce-in-sd-wan-orchestrator)  
+
+- [Introduction](lectures/P3-sql.pdf)
+  - Video: https://stream.queensu.ca/Watch/p2TYs59Q
+
+- [SQL Injection](lectures/P3-sql.pdf) (same slides as above) 
+  - Video - Attack: https://stream.queensu.ca/Watch/i5MAo2t3
+  - Video - Prevent: https://stream.queensu.ca/Watch/i5MAo2t3
+  
+- [XSS Attack](lectures/P3-xss.pdf)
+  - Video: https://stream.queensu.ca/Watch/t5KWq84C
+
+
+- [REVIEW](TBA)
+  - Exam opens from Dec-03 to Dec-07
+  - Video: TBA 
+
+</p>
+</details>
+
 ## Contributors ✨
 
 
