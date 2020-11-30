@@ -9,12 +9,33 @@ Office. Since the next assignment will involve testing it, do not do full testin
 at this time (no marks are for correctness yet!). Try to work together on your program using Pair Programming, where one
 of you advises on the higher-level design issues while the other does the coding.
 
+The backend is a standalone program that runs on the back office during the night, takes some arguments with no user interactions and exits with output files.
+
+|  |  |  |
+|-|-|-|
+| Program input | arguments | the names of the output transaction files from all the offices of different locations, as positional arguments. |
+|  |  |  |
+| Program output | updated_accounts.csv |  the valid account list file to be used for the frontend offices in the next day |
+|                |  updated_tickets.csv |  the valid ticket list file to be used for the frontend offices in the next day |
+
+
+The backend program takes all the output transactions files from all locations (so you will have three files if you have three different locations, i.e. three different runs of the frontend program), process all the transactions, and produce the new account information file and the new ticket information file for the next day. Specificatoins:
+
+- The backend program will first read `accounts.csv` and `tickets.csv`. These two files contain the account information and ticket information at the begining of the day. These two files are also used by the frontend offices of different locations.
+- The transaction files, specified by the program input, are processed following an alphabetical order.
+- Then the backend program process the transaction one-by-one. Each transaction has to satisfy the constraints specificed in the frontend requirement. For example, a ticket purchase transaction has to make sure that there are enough tickets in order to proceeed.
+- For failed/invalid transactions, log the error in the console. There is no specific requirement for the format.
+- After processing all the transactions, output the updated account information in `updated_accounts.csv` file and the updated ticket information in `updated_tickets.csv` file. 
+
+
 As much as possible, try to keep in mind the principles of Incremental Development (IDP) and
 eXtreme Programming (XP) while creating your solution. Using Incremental Development,
 structure your programming as a sequence of subsets, where at each stage you implement only
 the next most essential feature, creating a running prototype before moving on to adding the
 next feature. Using XP, work together on your program using Pair Programming, where one of
 you advises on the higher-level design issues while the other does the actual coding.
+
+
 
 Deliveries:
 - A design document in PDF format for your Back Office, giving the overall structure of your solution, showing the classes
