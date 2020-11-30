@@ -19,7 +19,7 @@ The backend is a standalone program that runs on the back office during the nigh
 |                |  updated_tickets.csv |  the valid ticket list file to be used for the frontend offices in the next day |
 
 
-The backend program takes all the output transactions files from all locations (so you will have three files if you have three different locations, i.e. three different runs of the frontend program), process all the transactions, and produce the new account information file and the new ticket information file for the next day. Specificatoins:
+The backend program takes all the output transactions files from all locations (so you will have three files if you have three different locations, i.e. three different runs of the frontend program), process all the transactions, and produce the new account information file and the new ticket information file for the next day. Specifications:
 
 - The backend program will first read `accounts.csv` and `tickets.csv`. These two files contain the account information and ticket information at the begining of the day. These two files are also used by the frontend offices of different locations.
 - The transaction files, specified by the program input, are processed following an alphabetical order.
