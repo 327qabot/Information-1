@@ -275,7 +275,7 @@ In this part, we will look into two of the most common cyber attacks against app
 
 - [REVIEW](lectures/P3-Review.pdf)
   - Exam opens from Dec-03 to Dec-07
-  - Video: TBA 
+  - Video: https://stream.queensu.ca/Watch/x2Q9Sge3 
 
 </p>
 </details>
