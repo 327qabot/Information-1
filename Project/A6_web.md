@@ -20,7 +20,7 @@ With a single database file cannot accomodate the need of the client. Therefore,
 - Docker compose integrating A MySQL database, database web interface, and our web application. 
 
 
-### SQL-Injection Security Report
+## SQL-Injection Security Report
 
 Before deployment, let's scan for SQL injection bugs and curate an injection vulnerability report, by following the steps below:
 
@@ -50,7 +50,7 @@ Now you have all the logs. Let's compile a SQL injection scanning report by fill
 3. :ship: Summarize the injection payload used based on the logs, and breifly discuss the purpose. 
 
 
-### XSS Security Report
+## XSS Security Report
 
 - Install [PwnXSS](https://github.com/pwn0sec/PwnXSS) (git clone or download & unzip their zip/tar.gz file)
 - Manually start your application
