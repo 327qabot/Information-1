@@ -20,7 +20,7 @@ With a single database file cannot accomodate the need of the client. Therefore,
 - Docker compose integrating A MySQL database, database web interface, and our web application. 
 
 
-## SQL-Injection Security Report
+## SQL-Injection Security Report [Optional but Recommended]
 
 Before deployment, let's scan for SQL injection bugs and curate an injection vulnerability report, by following the steps below:
 
@@ -50,7 +50,7 @@ Now you have all the logs. Let's compile a SQL injection scanning report by fill
 3. :ship: Summarize the injection payload used based on the logs, and breifly discuss the purpose. 
 
 
-## XSS Security Report
+## XSS Security Report [Optional but Recommended]
 
 - Install [PwnXSS](https://github.com/pwn0sec/PwnXSS) (git clone or download & unzip their zip/tar.gz file)
 - Manually start your application
@@ -117,5 +117,15 @@ However, we don't stop from a single container deployment. In a lot of situtatio
  - `phpmyadmin`  : Web interface for MySQL
 These services are all defined in our `docker-compose.yml` file. 
 It also defines some resources:
- - `seetgeek-site` : the network connects everything
- - volumes mounted to the MySQL database instance. 
+  - `seetgeek-site` : the network connects everything
+  - volumes mounted to the MySQL database instance, including the folder for database data and the database initialization file for MySQL. 
+1. The only thing you need to change in the `docker-compose.yml` file is the `image` property of the `seetgeek-web:` service. It should point to your own image i.e. `your_docker_hub_name/your_docker_hub_repo_name:version_info`. 
+2. To run the WHOLE system just issue `docker-compose up`. Then everything should start!! You will see a new folder `mysql_data` created for data store. 
+  - web app is running at `0.0.0.0:8081` 
+  - database web interface is running at `127.0.0.1:8082`. user name `root`, password `root`, server `db`. (all of these are defined in the docker compose file). 
+
+
+## Evalution Rubic:
+- Teamwork (PR practice, build-passing, review, etc.) 2
+- Successfully building and publishing a working docker image 4
+- A working docker-compose file 4
