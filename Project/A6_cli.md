@@ -33,4 +33,3 @@ In this assignment, you will combine your Front End and Back Office into a compl
 - Daily script - Correctly implements spec above and clearly show the inputs of different locations to the program.
 - Weekly script - Correctly implements spec above and clearly show the inputs of different days.
 - Daily acount/Ticket information files are in the correct format.
-- A working docker-compose file 4
